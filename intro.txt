@@ -1,0 +1,1 @@
+This repo contains the code and some practice problems from Sebastian Raschka's book Training LLMs from scratch. 
